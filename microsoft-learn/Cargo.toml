@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "./training/paths/rust-first-steps/crates/hello-cargo",
+]
+authors = ["Jaideep Singh Heer"]

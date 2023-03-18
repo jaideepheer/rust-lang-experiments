@@ -9,9 +9,7 @@
         "**/.classpath": true,
         "**/.project": true,
         "**/.settings": true,
-        "**/.factorypath": true,
-        "microsoft-learn": true,
-        "open-kattis": true
+        "**/.factorypath": true
     },
     "hide-files.files": []
 }
